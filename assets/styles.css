@@ -1,0 +1,13 @@
+:root {
+  --color-open: #22c55e;
+  --color-in-progress: #f59e0b;
+  --color-closed: #9ca3af;
+  --radius: 12px;
+  --shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+body {
+  font-family: 'Poppins', sans-serif;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
